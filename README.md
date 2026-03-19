@@ -36,7 +36,6 @@ Required toolboxes:
 
 Statistics and Machine Learning Toolbox
 
-Parallel Computing Toolbox (optional, for faster parameter scans in Figure 5)
 
 Running the Code
 Figure 1 – OAR Mechanism
