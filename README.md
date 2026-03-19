@@ -73,15 +73,15 @@ cd figure6
 KStest           # or KStestLog for log‑scale plots
 Outputs: figure, twitter_analysis_top25_bottom25.mat, CSV files with group data.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-How to Cite
+
 If you use this code, please cite the original paper:
 
-text
+
 LI Zhenpeng, YAN Zhihua, TANG Xijin. From Rational Inattention to Explosive Bimodality:
 Co-evolutionary Contagion on Adaptive Hypergraphs. Royal Society Open Science, 2025.
 For the Twitter dataset, acknowledge:
 
-text
+
 J. Leskovec, L. Backstrom, J. Kleinberg. Meme-tracking and the Dynamics of the News Cycle.
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), 2009.
 Reproducibility
